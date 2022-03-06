@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645619982 source:c:\users\nxbgdvn\documents\hangman\hangman.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+
+1645587395 source:c:\users\nxbgdvn\documents\hangman\nhap.cpp
+	<iostream>
+
