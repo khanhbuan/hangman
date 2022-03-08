@@ -3,6 +3,8 @@
 #include<ctime>
 #include<fstream>
 #include<vector>
+#include<thread>
+#include<chrono>
 #include "status.h"
 using namespace std;
 

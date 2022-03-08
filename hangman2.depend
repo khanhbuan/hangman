@@ -1,34 +1,42 @@
 # depslib dependency file v1.0
-1646708716 source:c:\users\nxbgdvn\documents\hangman2\demo.cpp
+1646744715 source:c:\users\nxbgdvn\documents\hangman2\demo.cpp
 	<iostream>
 	<cstring>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 	"draw.h"
 	"status.h"
 	"update.h"
 
-1646708690 c:\users\nxbgdvn\documents\hangman2\draw.h
+1646747255 c:\users\nxbgdvn\documents\hangman2\draw.h
 	<iostream>
 	<string>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 
-1646708690 c:\users\nxbgdvn\documents\hangman2\status.h
+1646744732 c:\users\nxbgdvn\documents\hangman2\status.h
 	<iostream>
 	<string>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 
-1646708687 c:\users\nxbgdvn\documents\hangman2\update.h
+1646744731 c:\users\nxbgdvn\documents\hangman2\update.h
 	<iostream>
 	<string>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 
 1646708609 source:c:\users\nxbgdvn\documents\hangman2\draw.cpp
 	<iostream>
@@ -38,19 +46,23 @@
 	<vector>
 	"draw.h"
 
-1646708617 source:c:\users\nxbgdvn\documents\hangman2\update.cpp
+1646744716 source:c:\users\nxbgdvn\documents\hangman2\update.cpp
 	<iostream>
 	<string>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 	"update.h"
 
-1646708705 source:c:\users\nxbgdvn\documents\hangman2\status.cpp
+1646744717 source:c:\users\nxbgdvn\documents\hangman2\status.cpp
 	<iostream>
 	<string>
 	<ctime>
 	<fstream>
 	<vector>
+	<thread>
+	<chrono>
 	"status.h"
 

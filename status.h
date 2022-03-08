@@ -3,6 +3,8 @@
 #include<ctime>
 #include<fstream>
 #include<vector>
+#include<thread>
+#include<chrono>
 #ifndef STATUS_H
 #define STATUS_H
 using namespace std;

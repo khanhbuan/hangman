@@ -3,6 +3,8 @@
 #include<ctime>
 #include<fstream>
 #include<vector>
+#include<thread>
+#include<chrono>
 #include "draw.h"
 #include "status.h"
 #include "update.h"
