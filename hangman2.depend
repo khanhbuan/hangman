@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1646708716 source:c:\users\nxbgdvn\documents\hangman2\demo.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<fstream>
+	<vector>
+	"draw.h"
+	"status.h"
+	"update.h"
+
+1646708690 c:\users\nxbgdvn\documents\hangman2\draw.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+
+1646708690 c:\users\nxbgdvn\documents\hangman2\status.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+
+1646708687 c:\users\nxbgdvn\documents\hangman2\update.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+
+1646708609 source:c:\users\nxbgdvn\documents\hangman2\draw.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+	"draw.h"
+
+1646708617 source:c:\users\nxbgdvn\documents\hangman2\update.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+	"update.h"
+
+1646708705 source:c:\users\nxbgdvn\documents\hangman2\status.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+	"status.h"
+
