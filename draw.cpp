@@ -9,7 +9,7 @@
 using namespace std;
 
 const string hangman[]={
-		" -------------    \n"
+		" -------------     \n"
          	"   |                \n"
                 "   |                \n"
                 "   |                \n"
